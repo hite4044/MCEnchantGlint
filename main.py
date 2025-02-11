@@ -11,7 +11,7 @@ from PIL import Image, ImageFilter, ImageEnhance
 
 from widget import CenteredStaticText, ft, LabelTextCtrl, LabelSpinCtrl, LabelChoice, FormatedText
 
-DEBUG = True
+DEBUG = False
 
 
 @dataclass
